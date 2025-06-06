@@ -41,6 +41,6 @@ Base de dados utilizada: presente no repositório ou disponível em [[UCI Machin
 
 ## 👤 Autor
 
-
+Guilherme Paes – linkedin.com/in/paesgui
 
 
